@@ -9,12 +9,7 @@ instant web development gratification. Just clone the repo (or download the zip/
 you're ready to develop your application.
 
 The seed app shows how to wire together Angular client-side components with Express on the server.
-It also illustrates writing angular views with the EJS and how partials can be serve by Express as static files.
-
-_Note:
-Although Jade supports interpolation, you should be doing that mostly on the client. Mixing
-server and browser templating will convolute your app. Instead, use Jade as a syntactic sugar for
-HTML, and let AngularJS take care of interpolation on the browser side._
+It also illustrates writing angular views with EJS and how partials can be served by Express as static files.
 
 ## How to use angular-express-seed
 
